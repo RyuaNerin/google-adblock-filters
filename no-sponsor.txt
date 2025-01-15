@@ -1,0 +1,9 @@
+[Adblock Plus 2.0]
+! Title: no-sponsor
+! Description: Hide sponsor link from google search results.
+! Homepage: https://github.com/RyuaNerin/google-adblock-filters
+! License: https://github.com/RyuaNerin/google-adblock-filters#license
+! Expires: 24 hours
+! Version: 2025.01.19.11.00 (UTC)
+
+google.*#?#div[data-text-ad]
